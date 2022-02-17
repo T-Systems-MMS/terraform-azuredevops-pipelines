@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.0](https://github.com/T-Systems-MMS/terraform-azuredevops-pipelines/tree/0.1.0) (2022-02-17)
+
+[Full Changelog](https://github.com/T-Systems-MMS/terraform-azuredevops-pipelines/compare/0.0.1...0.1.0)
+
 ## [0.0.1](https://github.com/T-Systems-MMS/terraform-azuredevops-pipelines/tree/0.0.1) (2022-02-07)
 
 [Full Changelog](https://github.com/T-Systems-MMS/terraform-azuredevops-pipelines/compare/498ac4f4118ccc74418c5d3d2d2d7454c88a44fd...0.0.1)
