@@ -1,5 +1,5 @@
-module "azuredevops_pipelines" {
-  source = "../modules/azure/terraform-azuredevops_pipelines"
+module "pipelines" {
+  source = "registry.terraform.io/T-Systems-MMS/pipelines/azuredevops"
   build_definition = {
     build_dmc = {
       name       = "service-mgmt-dmc"
