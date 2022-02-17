@@ -3,7 +3,7 @@ module "pipelines" {
   build_definition = {
     build_dmc = {
       name       = "service-mgmt-dmc"
-      project_id = module.azuredevops_project.project["project_name"].id
+      project_id = module.project.project["project_name"].id
       path       = "\\service\\build"
       repository = {
         repo_type   = "TfsGit"
