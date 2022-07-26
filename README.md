@@ -7,14 +7,14 @@
 
 | Name | Version |
 |------|---------|
-| terraform | ~>1.0.11 |
-| azuredevops | =0.1.8 |
+| terraform | ~> 1.2.0 |
+| azuredevops | =0.2.2 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| azuredevops | =0.1.8 |
+| azuredevops | =0.2.2 |
 
 ## Resources
 
