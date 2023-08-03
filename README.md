@@ -1,3 +1,5 @@
+This module is deprecated. The current version can be found here https://registry.terraform.io/modules/telekom-mms/build/azuredevops/latest.
+
 <!-- BEGIN_TF_DOCS -->
 
 
